@@ -18,14 +18,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const letterContent = [
         "Thân gửi các bạn nữ 11C,^1000\n\n",
         "Nhân dịp ngày Phụ nữ Việt Nam 20/10,^500\n",
-        "Chúng mình xin gửi đến bạn những lời chúc tốt đẹp nhất!^1000\n\n",
+        "Chúng mình xin gửi đến các bạn nữ 11C những lời chúc tốt đẹp nhất!^1000\n\n",
         "Mỗi người phụ nữ là một bông hoa tuyệt đẹp,^500\n",
         "Tô điểm cho cuộc sống này thêm rực rỡ.^1000\n"
     ];
 
     const wishes = [
         {icon: "🌸", text: "Chúc các bạn nữ 11C luôn xinh đẹp, rạng ngời như những đóa hoa tươi thắm"},
-        {icon: "✨", text: "Chúc các bạn nữ 11C luôn học giỏi kiên cường phấn đấu"},
+        {icon: "✨", text: "Chúc các bạn nữ 11C thành công rực rỡ trên con đường học tập zé"},
         {icon: "🌟", text: "Chúc các bạn nữ 11C luôn vui vẻ, tràn đầy năng lượng mỗi ngày"},
         {icon: "🎀", text: "Chúc các bạn nữ 11C luôn nhận được nhiều điều tuyệt vời trong cuộc sống"}
     ];
@@ -315,5 +315,4 @@ document.addEventListener('DOMContentLoaded', () => {
     bgMusic.load();
     openSound.load();
     modalSound.load();
-
 });
